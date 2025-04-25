@@ -63,7 +63,7 @@ INSTALLED_APPS = [
 
     # Custom Apps
     'userManager',
-    
+    'programs',
 
 ]
 
